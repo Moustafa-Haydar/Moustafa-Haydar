@@ -1,69 +1,99 @@
-# 🎯 [Your Full Name]
-**[Your Professional Title • e.g. “Full‑Stack Developer” | “Marketing Strategist” | “Data Analyst”]**
+# 😎 Moustafa Haydar
 
-📍 Based in [City, Country]  
-📧 [youremail@example.com] • [LinkedIn URL] • [Portfolio URL or GitHub]  
+**💻 Backend Wizard • 🧙‍♂️ Bug Slayer • 🧠 Data Tinkerer**
 
----
+> *"Writing code that's cleaner than my browser history."*
 
-## 📌 Quick Overview
-Strategic and results-driven **[Your Title]** with **[X+] years** of experience in **[core fields – e.g. software development, digital marketing, UX/UI design]**. Adept at transforming complex challenges into innovative, scalable solutions. Recognized for strong collaboration, continuous learning, and impactful project delivery.
+📍 **Lebanon** | 📬 [programmermoustafa@gmail.com](mailto:programmermoustafa@gmail.com) | [🔗 LinkedIn](https://linkedin.com/in/pg-moustafa) | [🐱 GitHub](https://github.com/PG-Moustafa)
 
 ---
 
-## 💡 Core Competencies
+## 🌀 About Me
 
-- **Technical Skills / Tools**  
-  • Programming: `[Languages – e.g., JavaScript, Python, C#]`  
-  • Frameworks: `[e.g., React, Node.js, .NET]`  
-  • Tools: `[e.g., Docker, AWS, Git, Figma]`
+Hey there, internet wanderer 👋 I'm Moustafa, the guy who turns ☕ into 🧠 backend logic and 🐍 Python scripts that actually make sense (usually). Whether I’m wrangling data in Power BI or summoning PDF demons with Django + WeasyPrint, I code like it's a sport — fast, clean, and with flair.
 
-- **Professional Strengths**  
-  • Strategic Planning & Execution  
-  • Cross-Functional Team Leadership  
-  • Agile Project Management  
-  • Analytical Thinking & Problem-Solving  
-  • UX-Centric Design Focus
+**Fun fact:** My commits are 90% logic, 10% memes (for team morale, of course).
 
 ---
 
-## 🏆 Professional Journey
+## 💻 My Toolbox of Doom
 
-### **[Current or Most Recent Role]** • *[Company Name]* — *[Location]*  
-**[Start Month Year] – [End Month Year / Present]**  
-- Brief company profile (optional – 1–2 lines: what you do there, scope of business).  
-- ✅ Key Achievement: *“Led a team of 5 developers to build a B2B platform that increased user retention by 30% in 6 months”*  
-- ⭐ Impact: *“Optimized backend processes, reducing server load by 40% and improving page load time by 2.8s”*  
-- ⚙️ Tools & Tech: *[Bullet key technologies used]*
+```bash
+🧰 LANGUAGES     > Python | C++ | Java
+🧰 FRAMEWORKS    > Django | Flutter | Express.js
+🧰 DATABASES     > MySQL | SQL Server | MongoDB
+🧰 WEB STUFF     > HTML | CSS | JS | Bootstrap
+🧰 TOOLS         > Git | GitHub | WeasyPrint | Power BI | Tableau
+```
 
-*(Repeat for past positions – keep tone action-oriented: “Led,” “Redesigned,” “Spearheaded,” “Engineered,” etc.)*
+## 🧠 I’ve Built Things That Work (Miraculously)
+
+🗺️ **Hospital Accessibility Dashboard** – Power BI + Map Vibes + Health Data = Insight Bomb 💥
+
+📄 **Transcript Generator** – Automated bilingual PDFs because admins deserve less suffering 🧾
+
+🏦 **C++ Bank System** – No UI. No frameworks. Just pure, hardcore logic and if-statements 🧠💥
+
+## 🔧 Work Adventures
+
+### 🧑‍💻 Ibn Badis Center – France
+
+**Backend Developer** | *Feb 2025 – May 2025*
+
+* Built backend magic in Django for handling attendance, grades, and certificates.
+* Automated PDF generation like a wizard using WeasyPrint 🧙‍♂️
+
+### 🚀 SE Factory Bootcamp
+
+**Web & Python Developer** | *Oct – Dec 2024*
+
+* Trained like a samurai 🥷 in Python, web dev, and full-stack building blocks.
+* Built battle-ready apps with clean code and grit.
+
+### 📊 Khwarizmi Bootcamp
+
+**Data Analyst Trainee** | *Feb 2025*
+
+* Wielded Power BI and Tableau like a spreadsheet ninja 🥷
+* Made charts that got more attention than most influencers.
+
+## 🎓 Academic Lore
+
+**Bachelor of Computer Science** – Beirut Arab University (2023–2026)
+🧠 CGPA: 3.89 • 🥈Ranked 2nd
+
+## 📜 Certificates & Street Cred
+
+* ✅ SE Factory Bootcamp Grad
+* ✅ Power BI & Tableau Badge Wielder
+* ✅ MIPS Assembly from the Shadow Realm
+* ✅ Data Structures (Decoded and Demystified)
+* ✅ IC3 Digital Literacy — Because emails matter too
+
+[🔍 Full folder of proof I'm not lying](https://drive.google.com/drive/folders/1BC7biWWlNzPBjQLkYlqKrTTpWOTVC3p?usp=sharing)
+
+## 💖 Volunteering That Warms the RAM
+
+* 🧸 **AUBMC – CCCL Center**: Made kids smile while navigating scary stuff.
+* 📚 **Al Rabita Library**: Helped people discover books before ChatGPT existed.
+
+## 🌍 I Speak Human (And More)
+
+* 🗣️ Arabic – Native
+* 🗣️ English – Fluent (I even took the SAT for fun... sort of)
+* 🗣️ French – Intermediate (DELF B2 loading...)
+* 🗣️ Turkish – Fluent (Certified, not just watching Turkish dramas)
+
+## 🔥 Final Boss Mode
+
+> I don't just write code — I build systems with soul, dashboards with drama, and scripts that whisper "it just works."
 
 ---
 
-## 🚀 Select Projects
+**P.S.** If my profile made you smile or cringe slightly, that’s good UX 🧪
 
-### **[Project Name]** — *[Brief One-Line Summary]*  
-- **Objective:** *“To …”*  
-- **Role & Contribution:** *“I developed …, collaborated with …”*  
-- **Results:** *“Reduced process time by 50%, increased engagement by 20%”*
+![Visitor Badge](https://komarev.com/ghpvc/?username=PG-Moustafa\&color=blue)
 
-*(Repeat for 2–3 standout projects emphasizing measurable impact.)*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PG-Moustafa\&show_icons=true\&theme=radical)
 
----
-
-## 🎓 Education & Certifications
-
-**[Degree or Certification Title]**, *[Institution]* — *[Dates]*  
-- Additional info (e.g., honors, thesis topic, GPA, leadership role…)  
-- **Certifications:** *“AWS Certified Solutions Architect (2024), …”*
-
----
-
-## 🔧 Tools & Technologies
-
-```text
-Languages:    [e.g. JavaScript, Python, SQL]
-Frameworks:   [e.g. React.js, Django, Laravel]
-Tools:        [e.g. Docker, Jenkins, Tableau]
-Cloud / DBs:  [e.g. AWS, Azure, PostgreSQL, MySQL]
-Design / UX:  [e.g. Adobe XD, Figma, Sketch]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PG-Moustafa\&layout=compact\&theme=radical)
