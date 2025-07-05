@@ -54,18 +54,6 @@
 
 ---
 
-### 🧾 Certifications
-
-- SE Factory – FCS Bootcamp  
-- MIPS Assembly from Zero to Hero  
-- Data Structures Decode – Metwally  
-- Data Analysis with Power BI & Tableau  
-- IC3 Digital Literacy Certificate
-
-📁 [See All Certificates](https://drive.google.com/drive/folders/1BC7biWWlNzPBjQLkYlqKrTTpWOTVC3p?usp=sharing)
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
