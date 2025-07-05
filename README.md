@@ -1,4 +1,7 @@
-<h1 align="center">Hey there, I'm Moustafa 👋</h1>
+<!-- Animated Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Hey+there%2C+I'm+Moustafa+%F0%9F%91%8B;Backend+Developer+%7C+Problem+Solver+%7C+Tech+Lover" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   🧠 Backend Developer | 🎯 Problem Solver | 🌍 Multilingual Learner  
@@ -21,42 +24,37 @@
 
 ---
 
-### 🛠️ Technologies & Tools
+### ⚙️ Tech Stack & Tools
 
-**Languages:** Python, C++, Java  
-**Frameworks:** Django, Flutter  
-**Databases:** MySQL, MS SQL Server, MongoDB  
-**Web:** HTML, CSS, JavaScript, Bootstrap  
-**Tools:** Git, GitHub, Power BI, Tableau  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,django,flutter,mysql,mongodb,html,css,js,bootstrap,git,github,powerbi,tableau&theme=light" />
+</p>
 
 ---
 
 ### 💼 Experience Highlights
 
-- **Ibn Badis Center – France** (Feb–May 2025)  
-  🏫 Built backend for a Student Management System in Django  
+- **Ibn Badis Center – France**  
+  🏫 Developed backend for Student Management System in Django  
   📄 Integrated transcript PDF generation with WeasyPrint
 
-- **SE Factory Bootcamp** (Oct–Dec 2024)  
-  💻 Full-stack projects with Python, HTML/CSS, JS, PHP, and MySQL  
-  ✅ Strong focus on clean code and best practices
+- **SE Factory Bootcamp**  
+  💻 Full-stack apps with Python, HTML/CSS, JS, PHP, and MySQL  
+  ✅ Focused on clean architecture and performance
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 Projects I'm Proud Of
 
-- 🏥 **Hospital Accessibility Dashboard**  
-  Visualized healthcare access data using Power BI
-
-- 🏦 **Bank Management System**  
-  Built in C++ with core banking functionalities and file management
-
-- 🎓 **Student Management Platform**  
-  Admin panel for grades, attendance, and certificates using Django
+| Project | Description |
+|--------|-------------|
+| 🏥 **Hospital Accessibility Dashboard** | Visual insights on hospital access using Power BI |
+| 🏦 **Bank Management System** | C++ app for banking operations & records |
+| 🎓 **Student Management System** | Django platform for grades, certificates, and attendance |
 
 ---
 
-### 📜 Certifications
+### 🧾 Certifications
 
 - SE Factory – FCS Bootcamp  
 - MIPS Assembly from Zero to Hero  
@@ -64,16 +62,26 @@
 - Data Analysis with Power BI & Tableau  
 - IC3 Digital Literacy Certificate
 
-📁 [View All Certificates](https://drive.google.com/drive/folders/1BC7biWWlNzPBjQLkYlqKrTTpWOTVC3p?usp=sharing)
+📁 [See All Certificates](https://drive.google.com/drive/folders/1BC7biWWlNzPBjQLkYlqKrTTpWOTVC3p?usp=sharing)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PG-Moustafa&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PG-Moustafa&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
 ### ❤️ Let's Connect
 
-- 📬 Email: [programmermoustafa@gmail.com](mailto:programmermoustafa@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/pg-moustafa](https://linkedin.com/in/pg-moustafa)  
-- 💻 GitHub: [github.com/PG-Moustafa](https://github.com/PG-Moustafa)
+- 📬 [programmermoustafa@gmail.com](mailto:programmermoustafa@gmail.com)  
+- 💼 [LinkedIn](https://linkedin.com/in/pg-moustafa)  
+- 💻 [GitHub](https://github.com/PG-Moustafa)
 
 ---
 
-<p align="center">Thanks for visiting my profile! 🙌</p>
+<p align="center">Thanks for visiting! 🙌 Let's build something amazing together.</p>
