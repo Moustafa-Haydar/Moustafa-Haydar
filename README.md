@@ -14,27 +14,21 @@
 
 ## 🌀 About Me
 
-Hey there, internet wanderer 👋 I'm Moustafa, the guy who turns ☕ into 🧠 backend logic and 🐍 Python scripts that actually make sense (usually). Whether I’m wrangling data in Power BI or summoning PDF demons with Django + WeasyPrint, I code like it's a sport — fast, clean, and with flair.
-
-**Fun fact:** My commits are 90% logic, 10% memes (for team morale, of course).
+Hey there, internet wanderer 👋 I'm Moustafa, the guy who turns ☕ into 🧠 backend logic and 🐍 Python scripts that actually make sense (usually).
 
 ---
 
 ## 💻 My Toolbox of Doom
 
 ```bash
-🧰 LANGUAGES     > Python | C++ | Java
+🧰 LANGUAGES     > PHP | Python | C++ | Java 
 🧰 FRAMEWORKS    > Django | Flutter | Express.js
 🧰 DATABASES     > MySQL | SQL Server | MongoDB
 🧰 WEB STUFF     > HTML | CSS | JS | Bootstrap
-🧰 TOOLS         > Git | GitHub | WeasyPrint | Power BI | Tableau
+🧰 TOOLS         > Git | GitHub | Power BI | Tableau
 ```
 
 ## 🧠 I’ve Built Things That Work (Miraculously)
-
-🗺️ **Hospital Accessibility Dashboard** – Power BI + Map Vibes + Health Data = Insight Bomb 💥
-
-📄 **Transcript Generator** – Automated bilingual PDFs because admins deserve less suffering 🧾
 
 🏦 **C++ Bank System** – No UI. No frameworks. Just pure, hardcore logic and if-statements 🧠💥
 
@@ -47,13 +41,6 @@ Hey there, internet wanderer 👋 I'm Moustafa, the guy who turns ☕ into 🧠 
 * Built backend magic in Django for handling attendance, grades, and certificates.
 * Automated PDF generation like a wizard using WeasyPrint 🧙‍♂️
 
-### 🚀 SE Factory Bootcamp
-
-**Web & Python Developer** | *Oct – Dec 2024*
-
-* Trained like a samurai 🥷 in Python, web dev, and full-stack building blocks.
-* Built battle-ready apps with clean code and grit.
-
 ### 📊 Khwarizmi Bootcamp
 
 **Data Analyst Trainee** | *Feb 2025*
@@ -65,21 +52,6 @@ Hey there, internet wanderer 👋 I'm Moustafa, the guy who turns ☕ into 🧠 
 
 **Bachelor of Computer Science** – Beirut Arab University (2023–2026)
 🧠 CGPA: 3.89 • 🥈Ranked 2nd
-
-## 📜 Certificates & Street Cred
-
-* ✅ SE Factory Bootcamp Grad
-* ✅ Power BI & Tableau Badge Wielder
-* ✅ MIPS Assembly from the Shadow Realm
-* ✅ Data Structures (Decoded and Demystified)
-* ✅ IC3 Digital Literacy — Because emails matter too
-
-[🔍 Full folder of proof I'm not lying](https://drive.google.com/drive/folders/1BC7biWWlNzPBjQLkYlqKrTTpWOTVC3p?usp=sharing)
-
-## 💖 Volunteering That Warms the RAM
-
-* 🧸 **AUBMC – CCCL Center**: Made kids smile while navigating scary stuff.
-* 📚 **Al Rabita Library**: Helped people discover books before ChatGPT existed.
 
 ## 🌍 I Speak Human (And More)
 
