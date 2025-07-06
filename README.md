@@ -30,35 +30,9 @@ Hey there, internet wanderer 👋 I'm Moustafa, the guy who turns ☕ into 🧠 
 
 ## 🧠 I’ve Built Things That Work (Miraculously)
 
-🏦 **C++ Bank System** – No UI. No frameworks. Just pure, hardcore logic and if-statements 🧠💥
-
-## 🔧 Work Adventures
-
-### 🧑‍💻 Ibn Badis Center – France
-
-**Backend Developer** | *Feb 2025 – May 2025*
-
-* Built backend magic in Django for handling attendance, grades, and certificates.
-* Automated PDF generation like a wizard using WeasyPrint 🧙‍♂️
-
-### 📊 Khwarizmi Bootcamp
-
-**Data Analyst Trainee** | *Feb 2025*
-
-* Wielded Power BI and Tableau like a spreadsheet ninja 🥷
-* Made charts that got more attention than most influencers.
-
-## 🎓 Academic Lore
 
 **Bachelor of Computer Science** – Beirut Arab University (2023–2026)
 🧠 CGPA: 3.89 • 🥈Ranked 2nd
-
-## 🌍 I Speak Human (And More)
-
-* 🗣️ Arabic – Native
-* 🗣️ English – Fluent (I even took the SAT for fun... sort of)
-* 🗣️ French – Intermediate (DELF B2 loading...)
-* 🗣️ Turkish – Fluent (Certified, not just watching Turkish dramas)
 
 ## 🔥 Final Boss Mode
 
