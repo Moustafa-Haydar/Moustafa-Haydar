@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-<img src="https://github.com/TheDebugger206/TheDebugger206/blob/main/name.gif" alt="Moustafa Haydar" width="250" />
+<img src="https://github.com/TheDebugger206/TheDebugger206/blob/main/name.gif" alt="Moustafa Haydar" width="300" />
 </div>
 <br/>>
 
