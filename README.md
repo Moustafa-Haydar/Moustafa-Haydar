@@ -39,11 +39,3 @@ Hey there, internet wanderer 👋 I'm Moustafa, the guy who turns ☕ into 🧠 
 > I don't just write code — I build systems with soul, dashboards with drama, and scripts that whisper "it just works."
 
 ---
-
-**P.S.** If my profile made you smile or cringe slightly, that’s good UX 🧪
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=PG-Moustafa\&color=blue)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PG-Moustafa\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PG-Moustafa\&layout=compact\&theme=radical)
