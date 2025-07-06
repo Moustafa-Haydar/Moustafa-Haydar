@@ -1,4 +1,8 @@
-# 😎 Moustafa Haydar
+<br/>
+<div align="center">
+<img src="https://github.com/TheDebugger206/TheDebugger206/edit/main/name.gif" alt="Moustafa Haydar" />
+</div>
+<br/>>
 
 **💻 Backend Wizard • 🧙‍♂️ Bug Slayer • 🧠 Data Tinkerer**
 
