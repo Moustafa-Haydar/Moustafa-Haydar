@@ -11,7 +11,6 @@
   <img src="https://github.com/TheDebugger206/TheDebugger206/blob/main/name.gif" alt="Moustafa Haydar" width="400" />
   <br/>
   <p>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -39,10 +38,9 @@ Full‑stack software engineer with hands‑on experience across backend, fronte
 - Delivered multi‑app RBAC logistics platform with agentic AI for dynamic re‑routing and anomaly detection
 - Shipped full‑stack apps across React, Angular, Flutter backed by Django/Node and PostgreSQL/MongoDB
 - Built AI wellness coach (ChampBot) with gamification and community features for 300+ users potential impact
-- Led as Product Owner & AI Lead in a hackathon; strong ownership across backend, frontend, and automation
-- CGPA 3.89 (Ranked 2nd) — consistent academic excellence
 
 ## Technical Skills
+
 
 - **AI & Data**: Agentic AI, n8n, Python (Pandas, NumPy, scikit‑learn)
 - **DevOps**: AWS, Docker, CI/CD
@@ -110,15 +108,5 @@ CGPA: 3.89 • Ranked 2nd
 ## Activities & Achievements
 
 - **Codewars**: Solved 130+ problems — `https://codewars.com/users/programmerMoustafa`
-- **Leadership**: Product Owner & AI Lead in SE Factory Hackathon (2025)
-- **Open Source & Git**: Active across full‑stack repos, CI/CD, and automation workflows
 
 ---
-
-## What I’m Focusing On
-
-- Production‑grade agentic AI workflows (n8n + Python) integrated into full‑stack apps
-- Scalable backends (Django, Node/Express) with RBAC and observability
-- Cloud‑ready deployments (Docker, AWS) with CI/CD
-
-If you’re building something ambitious in logistics, health, or data‑driven products, let’s connect.
