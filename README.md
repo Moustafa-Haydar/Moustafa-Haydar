@@ -90,12 +90,6 @@ Team Project • React, Express.js, Node.js, MongoDB, n8n
 - Served as Product Owner and AI Lead; contributed across backend, frontend, and automation
 - Repo: `https://github.com/Moustafa-Haydar/RemotelyX`
 
-### Bank Management System (Jan 2025)
-C++ console application for account creation, transactions, and record management
-
-### Hospital Accessibility Dashboard (Feb 2025)
-Interactive Power BI dashboard analyzing hospital accessibility metrics
-
 ---
 
 ## Education
