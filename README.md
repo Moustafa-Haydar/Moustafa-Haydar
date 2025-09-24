@@ -8,6 +8,22 @@
     <a href="https://linkedin.com/in/Moustafa-Haydar">LinkedIn</a> •
     <a href="https://github.com/Moustafa-Haydar">GitHub</a>
   </p>
+  <img src="https://github.com/TheDebugger206/TheDebugger206/blob/main/name.gif" alt="Moustafa Haydar" width="400" />
+  <br/>
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/n8n-EA4C89?style=for-the-badge&logo=n8n&logoColor=white" />
+  </p>
 </div>
 
 ---
@@ -18,6 +34,14 @@ Full‑stack software engineer with hands‑on experience across backend, fronte
 
 ---
 
+## Highlights
+
+- Delivered multi‑app RBAC logistics platform with agentic AI for dynamic re‑routing and anomaly detection
+- Shipped full‑stack apps across React, Angular, Flutter backed by Django/Node and PostgreSQL/MongoDB
+- Built AI wellness coach (ChampBot) with gamification and community features for 300+ users potential impact
+- Led as Product Owner & AI Lead in a hackathon; strong ownership across backend, frontend, and automation
+- CGPA 3.89 (Ranked 2nd) — consistent academic excellence
+
 ## Technical Skills
 
 - **AI & Data**: Agentic AI, n8n, Python (Pandas, NumPy, scikit‑learn)
@@ -27,6 +51,17 @@ Full‑stack software engineer with hands‑on experience across backend, fronte
 - **Databases**: PostgreSQL, MySQL, MongoDB
 - **Analytics**: Power BI, Tableau
 - **Other**: Git, GitHub, Jira, Figma
+
+### Tech Stack at a Glance
+
+<p>
+  <img src="https://img.shields.io/badge/RBAC-4B0082?style=flat&label=Auth&labelColor=000&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentic_AI-A100FF?style=flat&label=Automation&labelColor=000&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud-AWS-232F3E?style=flat&logo=amazonaws&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/Containers-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Orchestration-n8n-EA4C89?style=flat&logo=n8n&logoColor=white" />
+</p>
 
 ---
 
