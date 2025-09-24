@@ -101,6 +101,6 @@ CGPA: 3.89 • Ranked 2nd
 
 ## Activities & Achievements
 
-- **Codewars**: Solved 130+ problems — `https://codewars.com/users/programmerMoustafa`
+ - **Codewars**: Solved 130+ problems — [codewars.com/users/programmerMoustafa](https://codewars.com/users/programmerMoustafa)
 
 ---
